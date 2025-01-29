@@ -1,4 +1,7 @@
-This women copied my work and use this project as her own work. 
+Ms Nancy Goletsos copied my work and use this project as her own work.
+Here is she 👇
+![image](https://github.com/user-attachments/assets/54eec9f3-ba3f-4fc9-a207-538c7cecafd9)
+
 # Mixed-model-Expectancy-Nancy-copy-paste
 
 
