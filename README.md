@@ -187,3 +187,7 @@ Time (months)
 12
 9.	Change X-axis: Estimated CSR (95% CI)
 
+
+![fig 1 bw](https://github.com/user-attachments/assets/40cf4833-4540-43b3-88ec-81660dc0f824)
+
+
